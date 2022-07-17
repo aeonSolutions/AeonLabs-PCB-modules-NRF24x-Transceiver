@@ -1,4 +1,4 @@
-# AeonLabs-PCB-modules-NRF24x-Transceiver
+# AeonLabs PCB modules NRF24x Transceiver
 This is a pcb design module for a  Nordic NRF24x Tranceiver 2.4Ghz. Suitable as a add-on design for any other KiCad project.
 
 *Don't forget to LIKE , SHARE and subscribe the free whatsApp group* and if you liked this PCB consider buying me a cup of coffee. Links below.
