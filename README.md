@@ -44,6 +44,8 @@ ________________________________________________________________________________
 - [Capacitor SMD 0805](https://s.click.aliexpress.com/e/_AVdmzr)
 - [Resistor SMD 1206 ](https://s.click.aliexpress.com/e/_A7OXrR)
 - [NRF2401](https://s.click.aliexpress.com/e/_Dnd4nBd)
+- [SMD Crystal](https://s.click.aliexpress.com/e/_DFLqC6r)
+- [SMD Inductor](https://s.click.aliexpress.com/e/_DcYwfdh)
 
 
 ## Firmware Download 
