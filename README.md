@@ -3,8 +3,8 @@ This is a pcb design module for a  Nordic NRF24x Tranceiver 2.4Ghz. Suitable as 
 
 *Don't forget to LIKE , SHARE and subscribe the free whatsApp group* and if you liked this PCB consider buying me a cup of coffee. Links below.
 
-![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs-PCB-Modules-8.7V-Battery-Charger-BMS.svg)
-![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-PCB-Modules-8.7V-Battery-Charger-BMS/total)
+![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs-PCB-modules-NRF24x-Transceiver.svg)
+![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-PCB-modules-NRF24x-Transceiver/total)
 
 ### Status
 ![](https://github.com/aeonSolutions/AeonLabs-PCB-Modules-2.4Ghz-Receiver-to-UART/blob/main/designs/working_yellow.png)  Waiting for first batch from factory. Not tested.
