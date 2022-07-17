@@ -43,7 +43,7 @@ ________________________________________________________________________________
 ## PCB Parts list
 - [Capacitor SMD 0805](https://s.click.aliexpress.com/e/_AVdmzr)
 - [Resistor SMD 1206 ](https://s.click.aliexpress.com/e/_A7OXrR)
-- [QFN16 SY6982E](https://s.click.aliexpress.com/e/_DmTDfkf)
+- [NRF2401](https://s.click.aliexpress.com/e/_Dnd4nBd)
 
 
 ## Firmware Download 
